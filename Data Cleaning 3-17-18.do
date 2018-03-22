@@ -1,4 +1,4 @@
-******** Data Cleaning  
+******** Data Cleaning  - SPHHS
 
 * whether foreign-born
 recode ORIGIN (1=0)(2/1000=1),gen(fborn)
